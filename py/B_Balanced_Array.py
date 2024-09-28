@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:n=int(s);print(*n%4 and ['NO']or['YES']+[*range(2,n+1,2)]+[n+n//2-1]+[*range(1,n-1,2)]) 

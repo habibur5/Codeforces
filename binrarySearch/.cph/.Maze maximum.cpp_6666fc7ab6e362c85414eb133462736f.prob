@@ -1,0 +1,1 @@
+{"name":"Local: Maze maximum","url":"f:\\problem\\code forces\\binrarySearch\\Maze maximum.cpp","tests":[{"id":1718289980657,"input":"3 3\n2 1 3\n4 2 4\n5 9 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\problem\\code forces\\binrarySearch\\Maze maximum.cpp","group":"local","local":true}
